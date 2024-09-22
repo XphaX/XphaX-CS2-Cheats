@@ -1,7 +1,5 @@
 ## XphaX Version 1.3 ##
 
-![Uploading image.png…]()
-
 
 # Status
 
