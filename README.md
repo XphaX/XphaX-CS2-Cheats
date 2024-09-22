@@ -1,6 +1,7 @@
 ## XphaX Version 1.3 ##
 
-https://imgur.com/a/bRh0H6c
+![Uploading image.png…]()
+
 
 # Status
 
