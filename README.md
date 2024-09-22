@@ -13,7 +13,7 @@ X Version 1.3 ##
 
 # Instructions
 
-- **Protection: ** windows Defender can block the functionality of the program. it is recommended to disable it
+- **Protection:** windows Defender can block the functionality of the program. it is recommended to disable it
 
 - **Settings Save:** The software saves the latest settings to the `config.json` file upon program exit.
 
