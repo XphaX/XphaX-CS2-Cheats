@@ -1,7 +1,5 @@
 ## XphaX Version 1.3 ##
 
-![Alt text](relative%20path/to/MxG5eWB.png?raw=true "Title")
-
 # Status
 
 - **FOV Changer:**
